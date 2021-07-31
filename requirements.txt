@@ -1,0 +1,20 @@
+# Library dependencies for the project
+# You have to install these libraries, before you can run the code:
+# 'pip install -r requirements.txt'
+
+# Standard library dependencies:
+# enum
+# os.path
+
+python>=3.7
+
+# Additonal packages
+jupyterlab>=3.0.14
+matplotlib>=3.3.4
+nibabel>=3.2.0
+numpy>=1.19.2
+opencv>=4.5.0
+pandas>=1.2.5
+pydicom>=2.0.0
+pytorch>=1.6.0
+xlrd>=2.0.1
